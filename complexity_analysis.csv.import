@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://s2ek7utkols8"
+
+[deps]
+
+files=["res://complexity_analysis.time.translation", "res://complexity_analysis.n.translation", "res://complexity_analysis.density.translation", "res://complexity_analysis.time.translation", "res://complexity_analysis.n.translation"]
+
+source_file="res://complexity_analysis.csv"
+dest_files=["res://complexity_analysis.time.translation", "res://complexity_analysis.n.translation", "res://complexity_analysis.density.translation", "res://complexity_analysis.time.translation", "res://complexity_analysis.n.translation"]
+
+[params]
+
+compress=true
+delimiter=0

@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://7p5y52k8gtf8"
+
+[deps]
+
+files=["res://last_points_export.y.translation", "res://last_points_export.is.translation", "res://last_points_export.elapsed.translation", "res://last_points_export.n.translation", "res://last_points_export.n.translation", "res://last_points_export.n.translation", "res://last_points_export.density.translation"]
+
+source_file="res://last_points_export.csv"
+dest_files=["res://last_points_export.y.translation", "res://last_points_export.is.translation", "res://last_points_export.elapsed.translation", "res://last_points_export.n.translation", "res://last_points_export.n.translation", "res://last_points_export.n.translation", "res://last_points_export.density.translation"]
+
+[params]
+
+compress=true
+delimiter=0

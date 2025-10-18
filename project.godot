@@ -14,3 +14,7 @@ config/name="envoltoria_convexa"
 run/main_scene="res://node_2d.tscn"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
+
+[editor]
+
+movie_writer/movie_file="/home/felipe/envoltoria-convexa/video.avi"
